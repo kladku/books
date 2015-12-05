@@ -1,2 +1,3 @@
 * Hintjens, Peter: ZeroMQ: Messaging for Many Applications.
-* Stepanov, Alexander A. and Daniel E. Rose: From Mathematics to Generic Programming
+* Stepanov, Alexander A. and Daniel E. Rose: From Mathematics to Generic Programming.
+* Mitnick, Kevin: Ghost in the wires.
